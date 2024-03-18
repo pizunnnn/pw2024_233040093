@@ -1,0 +1,13 @@
+div {
+    display: flex;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+}
